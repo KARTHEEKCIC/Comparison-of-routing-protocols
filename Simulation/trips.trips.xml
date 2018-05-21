@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!-- generated on 2018-05-01 14:57:04.095202 by $Id: randomTrips.py 20482 2016-04-18 20:49:42Z behrisch $
+  options: -n guindy.net.xml -r guindy.rou.xml -e 20 -l
+-->
+<trips>
+    <trip id="0" depart="0.00" from="32553945#0" to="28077972" />
+    <trip id="1" depart="1.00" from="-23634183#3" to="549451698" />
+    <trip id="2" depart="2.00" from="566878724#0" to="84084670#0" />
+    <trip id="3" depart="3.00" from="-196106012#1" to="22688411#0" />
+    <trip id="4" depart="4.00" from="566878724#0" to="549451698" />
+    <trip id="5" depart="5.00" from="-23634187#1" to="27769229#0" />
+    <trip id="6" depart="6.00" from="-23634188" to="22688411#2" />
+    <trip id="7" depart="7.00" from="23641748" to="23641251" />
+    <trip id="8" depart="8.00" from="23641752#1" to="-23634187#0" />
+    <trip id="9" depart="9.00" from="-23641246#1" to="25646322#2" />
+    <trip id="10" depart="10.00" from="-23634183#3" to="34160400#3" />
+    <trip id="11" depart="11.00" from="22688411#0" to="34160397" />
+    <trip id="12" depart="12.00" from="28078046" to="-32553945#0" />
+    <trip id="13" depart="13.00" from="23634186#0" to="78320189" />
+    <trip id="14" depart="14.00" from="23634186#2" to="231391866" />
+    <trip id="15" depart="15.00" from="23634187#1" to="78320189" />
+    <trip id="16" depart="16.00" from="27769230#1" to="22688411#1" />
+    <trip id="17" depart="17.00" from="-27630222" to="23634188" />
+    <trip id="18" depart="18.00" from="78320189" to="-34159546" />
+    <trip id="19" depart="19.00" from="23641752#0" to="23634188" />
+</trips>

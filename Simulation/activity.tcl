@@ -1,0 +1,16 @@
+$ns_ at 0.0 "$g(0) start"; # SUMO-ID: 0
+$ns_ at 118.7 "$g(0) stop"; # SUMO-ID: 0
+$ns_ at 16.0 "$g(6) start"; # SUMO-ID: 16
+$ns_ at 104.5 "$g(6) stop"; # SUMO-ID: 16
+$ns_ at 19.0 "$g(7) start"; # SUMO-ID: 19
+$ns_ at 76.8 "$g(7) stop"; # SUMO-ID: 19
+$ns_ at 2.0 "$g(1) start"; # SUMO-ID: 2
+$ns_ at 78.4 "$g(1) stop"; # SUMO-ID: 2
+$ns_ at 3.0 "$g(2) start"; # SUMO-ID: 3
+$ns_ at 144.7 "$g(2) stop"; # SUMO-ID: 3
+$ns_ at 7.0 "$g(3) start"; # SUMO-ID: 7
+$ns_ at 141.1 "$g(3) stop"; # SUMO-ID: 7
+$ns_ at 8.0 "$g(4) start"; # SUMO-ID: 8
+$ns_ at 96.8 "$g(4) stop"; # SUMO-ID: 8
+$ns_ at 9.0 "$g(5) start"; # SUMO-ID: 9
+$ns_ at 150.0 "$g(5) stop"; # SUMO-ID: 9
